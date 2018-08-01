@@ -10,7 +10,7 @@ RSpec.describe ArtistsHelper, type: :helper do
   end
 
   # subject { helper }
-  # 
+  #
   # it { should respond_to(:display_artist).with(1).argument }
   # it { should respond_to(:artist_select).with(2).arguments }
 
